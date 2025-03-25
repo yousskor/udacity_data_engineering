@@ -1,7 +1,0 @@
-spark_and_data_lakes/
-test.py
-
-mon_env/
-config/aws_config.json
-*.pyc
-__pycache__/
